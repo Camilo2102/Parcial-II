@@ -10,18 +10,18 @@ Este repositorio contiene el código correspondiente al parcial de Consumo Web. 
 
 - Instalar dependencias:
   
-``bash
+``
 npm install
 ``
 
 - Ejecutar en desarrollo:
   
-``bash
+``
 npm run dev
 ``
 
 - Ejecutar en produccion:
   
-``bash
+``
 npm run start
 ``
